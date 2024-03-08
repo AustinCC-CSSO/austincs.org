@@ -9,7 +9,8 @@
     "redirects": [
       {
         "source": "**",
-        "destination": "/index.html"
+        "destination": "/index.html",
+        "type": "301"
       }
     ]
   }
